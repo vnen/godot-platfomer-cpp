@@ -1,0 +1,9 @@
+# Build generated
+*.o
+*.a
+*.obj
+*.lib
+*.pyc
+
+# Godot
+.fscache
